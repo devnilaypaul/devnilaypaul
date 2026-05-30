@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Fullstack Developer<br>I’m looking to collaborate on any Project for Learning<br>I’m currently learning JavaScript, React, Next JS<br>Ask me about Any project on Next Js<br>
+Computer Science student specializing in modern front-end and full-stack development. Skilled in React, Next.js, Tailwind CSS, and Shadcn UI. I develop real-world projects to strengthen my engineering fundamentals and share my learning journey through public repositories and technical writing.
 
 
 ## 🌐 Socials:
